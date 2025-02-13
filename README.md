@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunprakash-3001
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning bachelor degree
-- 💞️ I’m looking to collaborate on cyber security field
+- 👀 I’m interested in data science and cloud computing
+- 🌱 I’m currently pursuing masters degree(MCA)
+- 💞️ I’m looking to collaborate on Data Science field
 - 📫 To reach me mail at arunsakthikrr@gmail.com
 
 <!---
